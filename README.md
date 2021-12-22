@@ -1,5 +1,5 @@
 # ELKwithQuarkus_Logs
-elk with quarkus
+elk with quarkus and docker ma confgiguration dali h phir usko run kias ha
 
 
 first installed these three images in our system 
