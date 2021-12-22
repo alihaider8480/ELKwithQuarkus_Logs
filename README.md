@@ -69,4 +69,7 @@ output {
 ab agr hum java ki application ko hit maronga to wo logstash ma jae ga or log stash sa elasticsearch ma jae ga 
 or kibana usko khudi waha pa show kardaga matlab mujha kibana ka ui ma koi configuration ni karni ha.
 
+![Screenshot from 2021-12-22 19-37-26](https://user-images.githubusercontent.com/40827670/147109235-8e5ee900-8599-4389-b0b1-54f60064e541.png)
+
+
 
