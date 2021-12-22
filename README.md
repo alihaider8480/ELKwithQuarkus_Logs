@@ -72,4 +72,9 @@ or kibana usko khudi waha pa show kardaga matlab mujha kibana ka ui ma koi confi
 ![Screenshot from 2021-12-22 19-37-26](https://user-images.githubusercontent.com/40827670/147109235-8e5ee900-8599-4389-b0b1-54f60064e541.png)
 
 
+![Screenshot from 2021-12-22 19-40-35](https://user-images.githubusercontent.com/40827670/147109618-1b88e8a8-4795-48cb-8012-39e04b6176e6.png)
 
+![Screenshot from 2021-12-22 19-41-11](https://user-images.githubusercontent.com/40827670/147109703-5e0f0a8d-fd99-4785-9c59-3e06253dc4d4.png)
+
+
+![Screenshot from 2021-12-22 19-42-08](https://user-images.githubusercontent.com/40827670/147109941-720adaf5-37ad-47c6-ba28-e97d62121637.png)
