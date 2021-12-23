@@ -11,6 +11,10 @@ docker pull kibana:7.16.2
 when we done installed these 3 things then we create a docker yml file and there we write these three docker configuration those I wrote down
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+isko run karna is comand sa or jab file save karna to docer-compose sa ni karni ha isko elk.yml sa save karna ha or phir is command sa run karna ha
+docker-compose -f elk.yml up
+
 version: '3.5'
 
 services:
