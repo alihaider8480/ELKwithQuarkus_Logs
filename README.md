@@ -87,3 +87,9 @@ or kibana usko khudi waha pa show kardaga matlab mujha kibana ka ui ma koi confi
 ![Screenshot from 2021-12-22 19-42-18](https://user-images.githubusercontent.com/40827670/147191092-ebfead7b-1b2d-4b3c-b695-d3f52365529c.png)
 
 ![1](https://user-images.githubusercontent.com/40827670/147191357-2a389d35-2637-4ebc-aee5-73bb3525da17.png)
+
+![2](https://user-images.githubusercontent.com/40827670/147191388-3783ec40-c8dd-485b-8a90-155a5ae63469.png)
+
+![3](https://user-images.githubusercontent.com/40827670/147191408-c6f86b60-4596-4f7b-bd99-e364e67e036c.png)
+
+![4](https://user-images.githubusercontent.com/40827670/147191437-aaf1273b-c33f-4283-87c2-7ff5571fb90f.png)
