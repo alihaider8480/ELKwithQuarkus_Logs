@@ -1,0 +1,32 @@
+ya alag sa ha bus yahi ha ya project ma use ni kia howa
+
+input {
+	beats {
+		port => 5044
+	}
+
+	tcp {
+		port => 5000
+	}
+}
+
+filter {
+	grok {
+		match => { "message" => "(?<timestamp>[0-9]{2} %{MONTH} [0-9]{4} [0-9]{2}\:[0-9]{2}\:[0-9]{2}\,[0-9]{3}) %{LOGLEVEL:logLevel}  \[%{GREEDYDATA:loggerName}\] %{GREEDYDATA:logMessage}" }
+	}
+	date {
+		match => [ "timestamp", "dd MMM yyyy HH:mm:ss,SSS" ]
+		target => "@timestamp"
+		locale => "en"
+		remove_field => [ "timestamp" ]
+	}
+}
+
+output {
+	elasticsearch {
+		hosts => "elasticsearch:9200"
+		user => "elastic"
+		password => "changeme"
+		ecs_compatibility => disabled
+	}
+}
